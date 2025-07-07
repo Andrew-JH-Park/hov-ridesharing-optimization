@@ -115,5 +115,5 @@ See `report.pdf` for full documentation.
 ## 🧑‍💻 Author
 
 **Andrew Park**  
-EE227BT Final Project – UC Berkeley  
+EE227BT Convex Optimization : Final Project – UC Berkeley  
 Contact: `jungho.park@berkeley.edu`
